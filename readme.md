@@ -153,9 +153,3 @@ exoplanet-explorer/
 * **Backend**: Node.js, Express.js, NeDB (nedb-promises), bcrypt, JSON Web Tokens, node-fetch
 * **Frontend**: HTML, CSS, JavaScript
 * **Deployment**: Single Express server serving both API and static files
-
----
-
-## License
-
-This project is licensed under the MIT License.
