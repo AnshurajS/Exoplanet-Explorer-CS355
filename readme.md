@@ -1,6 +1,6 @@
 # Exoplanet Explorer
 
-A single-page web application for exploring, searching, and saving your favorite exoplanets using NASA’s Exoplanet Archive API. Featuring user authentication, animated backgrounds, live search filtering, and non-blocking notifications.
+A single-page web application for exploring, searching, and saving your favorite exoplanets using NASA’s Exoplanet Archive API. Featuring user authentication, animated backgrounds, live search filtering, and notifications.
 
 ---
 
